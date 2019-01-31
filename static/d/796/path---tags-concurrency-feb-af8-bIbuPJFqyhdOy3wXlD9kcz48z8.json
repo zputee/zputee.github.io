@@ -1,0 +1,1 @@
+{"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/blog/2018-12-09-concurrency-from-real-world-to-nodejs/","tagSlugs":["/tags/node/","/tags/javascript/","/tags/concurrency/"]},"frontmatter":{"title":"Concurrency from real world to Node.js"}}}]}},"pageContext":{"tag":"concurrency"}}

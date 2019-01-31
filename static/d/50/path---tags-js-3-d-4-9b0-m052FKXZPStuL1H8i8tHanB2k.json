@@ -1,0 +1,1 @@
+{"data":{"allMarkdownRemark":{"totalCount":2,"edges":[{"node":{"fields":{"slug":"/blog/2019-01-31-a-gatsby-blog/","tagSlugs":["/tags/gatsby/","/tags/js/"]},"frontmatter":{"title":"Songwang.io"}}},{"node":{"fields":{"slug":"/blog/2019-01-31-hexo/","tagSlugs":["/tags/hexo/","/tags/js/"]},"frontmatter":{"title":"Hexo"}}}]}},"pageContext":{"tag":"js"}}

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[zputee's blog]]></title><description><![CDATA[a blog]]></description><link>https://zputee.github.io/</link><generator>RSS for Node</generator><lastBuildDate>Thu, 31 Jan 2019 11:52:44 GMT</lastBuildDate><item><title><![CDATA[Songwang.io]]></title><description><![CDATA[Songwang.io is a fast, simple blog, i like it, use it.  https://github.com/wangsongiam Install gatsby Songwang.io developed by gatsby…]]></description><link>https://zputee.github.io//blog/2019-01-31-a-gatsby-blog/</link><guid isPermaLink="false">https://zputee.github.io//blog/2019-01-31-a-gatsby-blog/</guid><pubDate>Thu, 31 Jan 2019 22:59:04 GMT</pubDate><content:encoded>&lt;p&gt;Songwang.io is a fast, simple blog, i like it, use it. &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/wangsongiam&quot;&gt;https://github.com/wangsongiam&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Install&lt;/h2&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;git clone https://github.com/wangsongiam/songwang.io.git
+cd songwang.io
+npm install
+gatsby develop&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2&gt;gatsby&lt;/h2&gt;
+&lt;p&gt;Songwang.io developed by gatsby, Gatsby is a framework for Build blazing fast modern beautiful secure apps and websites with React。&lt;/p&gt;
+&lt;h2&gt;gatsby-config.js&lt;/h2&gt;
+&lt;p&gt;Site configuration file. You can configure most settings here.&lt;/p&gt;
+&lt;h2&gt;theme&lt;/h2&gt;
+&lt;p&gt;theme configuration file is _config.yml。&lt;/p&gt;
+&lt;h3&gt;styled-components&lt;/h3&gt;
+&lt;p&gt;styling React component &lt;/p&gt;
+&lt;h2&gt;GraphQL&lt;/h2&gt;
+&lt;p&gt;GraphQL 既是一种用于 API 的查询语言也是一个满足你数据查询的运行时。&lt;/p&gt;
+&lt;h2&gt;Plugins&lt;/h2&gt;
+&lt;p&gt;600多个插件&lt;/p&gt;
+&lt;h2&gt;Showcase&lt;/h2&gt;
+&lt;p&gt;393 Sites&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hexo]]></title><description><![CDATA[Hexo is A fast, simple & powerful blog framework。由万能的js语言开发，可方便利用最强大的js生态。 Hexo专注于blog，部署方便。 https://hexo.io/ Install _config.yml Site…]]></description><link>https://zputee.github.io//blog/2019-01-31-hexo/</link><guid isPermaLink="false">https://zputee.github.io//blog/2019-01-31-hexo/</guid><pubDate>Thu, 31 Jan 2019 21:59:04 GMT</pubDate><content:encoded>&lt;p&gt;Hexo is A fast, simple &amp;#x26; powerful blog framework。由万能的js语言开发，可方便利用最强大的js生态。&lt;/p&gt;
+&lt;p&gt;Hexo专注于blog，部署方便。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://hexo.io/&quot;&gt;https://hexo.io/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Install&lt;/h2&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;npm install hexo-cli -g
+hexo init blog
+cd blog
+npm install
+hexo server&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2&gt;_config.yml&lt;/h2&gt;
+&lt;p&gt;Site configuration file. You can configure most settings here.&lt;/p&gt;
+&lt;h2&gt;package.json&lt;/h2&gt;
+&lt;p&gt;Application data. The EJS, Stylus and Markdown renderers are installed by default。通过js的插件，可以支持所有Template，Styles。&lt;/p&gt;
+&lt;h2&gt;Plugins&lt;/h2&gt;
+&lt;p&gt;具有200多个插件&lt;/p&gt;
+&lt;h2&gt;Themes&lt;/h2&gt;
+&lt;p&gt;200多个模板&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Jekyll]]></title><description><![CDATA[Jekyll是ruby开发的，具有Simple、Static、Blog-aware等特点。 Jekyll已成为静态blog的标准，模板丰富，其他语言的博客，如Hexo、Gatsby blog等，都参照Jekyll设计理念。 Jekyll is the engine behind…]]></description><link>https://zputee.github.io//blog/2019-01-31-jekyll/</link><guid isPermaLink="false">https://zputee.github.io//blog/2019-01-31-jekyll/</guid><pubDate>Thu, 31 Jan 2019 18:59:04 GMT</pubDate><content:encoded>&lt;p&gt;Jekyll是ruby开发的，具有Simple、Static、Blog-aware等特点。&lt;/p&gt;
+&lt;p&gt;Jekyll已成为静态blog的标准，模板丰富，其他语言的博客，如Hexo、Gatsby blog等，都参照Jekyll设计理念。&lt;/p&gt;
+&lt;p&gt;Jekyll is the engine behind GitHub Pages.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://jekyllrb.com/&quot;&gt;https://jekyllrb.com/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Philosophy&lt;/h2&gt;
+&lt;p&gt;Jekyll does what you tell it to do — no more, no less. &lt;a href=&quot;https://jekyllrb.com/philosophy/&quot;&gt;Philosophy&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Liquid&lt;/h2&gt;
+&lt;p&gt;Jekyll uses the Liquid templating language to process templates.{{ variable }} &lt;/p&gt;
+&lt;h2&gt;Front Matter&lt;/h2&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;layout: post
+title: Blogging Like a Hacker&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2&gt;Set Blog&lt;/h2&gt;
+&lt;p&gt;_config.yml&lt;/p&gt;
+&lt;h2&gt;Add A New Post&lt;/h2&gt;
+&lt;p&gt;To add a new post, simply add a file in the _posts directory that follows the convention YYYY-MM-DD-name-of-post.ext and includes the necessary front matter. &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Choose Blog]]></title><description><![CDATA[记笔记是一种学习的好方式，本人上github7、8年了，没有什么像样的东东，惭愧之余清空了，重新出发，从博客开始。 静态blog已流行多年，实现的技术从Jekyll，Hexo，到Gatsby： （1）Jekyll，ruby技术，静态，专注blog，模板多，Rubyist…]]></description><link>https://zputee.github.io//blog/2019-01-30-a-blog/</link><guid isPermaLink="false">https://zputee.github.io//blog/2019-01-30-a-blog/</guid><pubDate>Wed, 30 Jan 2019 18:59:04 GMT</pubDate><content:encoded>&lt;p&gt;记笔记是一种学习的好方式，本人上github7、8年了，没有什么像样的东东，惭愧之余清空了，重新出发，从博客开始。&lt;/p&gt;
+&lt;p&gt;静态blog已流行多年，实现的技术从Jekyll，Hexo，到Gatsby：&lt;/p&gt;
+&lt;p&gt;（1）Jekyll，ruby技术，静态，专注blog，模板多，Rubyist首选。&lt;/p&gt;
+&lt;p&gt;（2）Hexo，js技术，静态，专注blog，模板多，成熟，Jsist首选。&lt;/p&gt;
+&lt;p&gt;（3）Gatsby，React、GraphQL技术的开发框架。&lt;/p&gt;
+&lt;p&gt;   我在Gatsby showcase中选择songwang的blog模板，类Jekyll，简洁，tag，全文搜索，&lt;a href=&quot;https://github.com/wangsongiam/songwang.io&quot;&gt;open sourced&lt;/a&gt;.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hi]]></title><description><![CDATA[这个假期20多天，准备 （1）每天走一万步 （2）学习React系列。]]></description><link>https://zputee.github.io//blog/2019-01-29-hi/</link><guid isPermaLink="false">https://zputee.github.io//blog/2019-01-29-hi/</guid><pubDate>Tue, 29 Jan 2019 18:59:04 GMT</pubDate><content:encoded>&lt;p&gt;这个假期20多天，准备&lt;/p&gt;
+&lt;p&gt;（1）每天走一万步&lt;/p&gt;
+&lt;p&gt;（2）学习React系列。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[About]]></title><description><![CDATA[Hello, my name is Zhong Zhun. I am a full-stack software engineer at  CCCCOI , living in  Chendu , Mudanjiang , Rongchang , Wuhan , zhuhai…]]></description><link>https://zputee.github.io//about/</link><guid isPermaLink="false">https://zputee.github.io//about/</guid><pubDate>Fri, 29 Jan 2010 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Hello, my name is Zhong Zhun.&lt;/p&gt;
+&lt;p&gt;I am a full-stack software engineer at &lt;a href=&quot;http://www.ccccoi.com/&quot;&gt;CCCCOI&lt;/a&gt;, living in &lt;del&gt;Chendu&lt;/del&gt;,&lt;del&gt;Mudanjiang&lt;/del&gt;,&lt;del&gt;Rongchang&lt;/del&gt;,&lt;del&gt;Wuhan&lt;/del&gt;,&lt;del&gt;zhuhai&lt;/del&gt;, &lt;del&gt;Nanjing&lt;/del&gt;, &lt;del&gt;Wuhan&lt;/del&gt;,  Sanya.&lt;/p&gt;
+&lt;p&gt;I code Php, Javascript, and Python.&lt;/p&gt;
+&lt;h2&gt;About zputee.github.io&lt;/h2&gt;
+&lt;p&gt;This is my blog site. It was built with  Gatsby. It’s also coded in the functional paradigm and fully &lt;a href=&quot;https://github.com/wangsongiam/songwang.io&quot;&gt;open sourced&lt;/a&gt;.&lt;/p&gt;</content:encoded></item></channel></rss>

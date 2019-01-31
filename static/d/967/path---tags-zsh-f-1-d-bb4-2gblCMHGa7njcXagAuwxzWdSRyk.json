@@ -1,0 +1,1 @@
+{"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/blog/2018-01-07-nvm-is-slowing-zshell-start-time-a-lot/","tagSlugs":["/tags/zsh/","/tags/nvm/","/tags/node/"]},"frontmatter":{"title":"Making zshell load faster on start"}}}]}},"pageContext":{"tag":"zsh"}}
